@@ -12,7 +12,7 @@ Here's a little bit about myself:
    * Visualization - Looker (Worked with Tableau, PowerBI)
 * My work:
   * 🔷 [Kaggle](kaggle.com)
-  * 📈 [Tableau](https://www.tableau.com/)
+  * 📈 [Tableau](https://public.tableau.com/app/profile/shubhangi.shimpi)
 * 🤘 Personal Projects I have worked on:
   * [Airbnb Data Analysis](https://github.com/svshimpi/Car-Insurance-Claim-Analysis)
   * [Stock Market Real-Time Data Processing Using Kafka](https://github.com/svshimpi/Car-Insurance-Claim-Analysis)
