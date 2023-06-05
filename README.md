@@ -20,7 +20,7 @@ Here's a little bit about myself:
 * 📫 How to reach me: 
   * [Linkedin](https://www.linkedin.com/in/sshimpi/)
   * [Personal website](sshimpi.com)
-* ⚡ My Certifications and Courses: 
+* ⚡ My Certifications: 
   * [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7VTDNNFRZDTN)
   * [Professional Scrum Master](https://www.scrum.org/certificates/650148)
 
