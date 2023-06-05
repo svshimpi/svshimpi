@@ -10,7 +10,7 @@ Here's a little bit about myself:
    * Exporing Modern Data Stack - Databricks
    * Azure Cloud (I have experience working with AWS & GCP)
    * Visualization - Looker (Worked with Tableau, PowerBI)
-* My work:
+* 👩‍💻 My work:
   * 🔷 [Kaggle](kaggle.com)
   * 📈 [Tableau](https://public.tableau.com/app/profile/shubhangi.shimpi)
 * 🤘 Personal Projects I have worked on:
