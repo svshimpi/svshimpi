@@ -8,7 +8,6 @@ Here's a little bit about myself:
 * 🔭 I’m currently working as a Freelance Data Engineer/ Data Analyst. 
 * 🌱 I’m currently learning: 
    * Exporing Modern Data Stack - Databricks
-   * Azure Cloud (I have experience working with AWS & GCP)
    * Visualization - Looker (Worked with Tableau, PowerBI)
 * 👩‍💻 My work:
   * 🔷 [Kaggle](kaggle.com)
@@ -19,7 +18,7 @@ Here's a little bit about myself:
   * [Urgent Care wait-time Prediction](https://github.com/svshimpi/Car-Insurance-Claim-Analysis)
 * 📫 How to reach me: 
   * [Linkedin](https://www.linkedin.com/in/sshimpi/)
-  * [Personal website](sshimpi.com)
+    
 * ⚡ My Certifications: 
   * [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7VTDNNFRZDTN)
   * [Professional Scrum Master](https://www.scrum.org/certificates/650148)
