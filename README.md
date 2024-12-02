@@ -5,7 +5,7 @@
 
 Here's a little bit about myself:
 
-* 🔭 I’m currently working as a Freelance Data Engineer/ Data Analyst. 
+* 🔭 I’m currently working as a Sr. Data Engineer at a US based Ecomm company  
 * 🌱 I’m currently learning: 
    * Exporing Modern Data Stack - Databricks
    * Visualization - Looker (Worked with Tableau, PowerBI)
